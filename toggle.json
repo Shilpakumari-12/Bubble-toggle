@@ -1,0 +1,35 @@
+{
+    "backgroundToggle": {
+      "id": "bgToggle1",
+      "label": "Background Toggle",
+      "checked": false,
+      "theme": {
+        "backgroundColorOn": "#3498db",
+        "backgroundColorOff": "#e74c3c",
+        "handleColor": "#ffffff",
+        "textColorOn": "#ffffff",
+        "textColorOff": "#ffffff"
+      },
+      "animation": {
+        "duration": 300,
+        "easing": "ease-in-out"
+      }
+    }
+        "toggle": {
+          "id": "toggle1",
+          "label": "Toggle",
+          "checked": false,
+          "motion": {
+            "duration": 300,
+            "easing": "ease-in-out"
+          },
+          "theme": {
+            "backgroundColorOn": "#4CAF50",
+            "backgroundColorOff": "#ccc",
+            "textColorOn": "#fff",
+            "textColorOff": "#333"
+          }
+      }
+      
+  }
+  
